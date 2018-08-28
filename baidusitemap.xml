@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://b.minesir.top/2018/Hexo%E6%90%AD%E5%BB%BAGitHub%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2018-08-27T04:02:51.401Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo搭建GitHub静态博客</title>
+        <pubTime>2018-08-26T01:40:12.000Z</pubTime>
+        
+        <tag>hexo github</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://b.minesir.top/2018/hello-world/</loc>
+    <lastmod>2018-08-25T09:09:15.632Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-25T09:09:15.632Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
