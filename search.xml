@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[html常用标签]]></title>
+    <url>%2F2018%2Fhtml%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE%2F</url>
+    <content type="text"><![CDATA[HTML标签 id name HTML 文本描述网页 head 网页的信息 body 可见的页面内容 h1-6 标题 p 段落 title 页标 div，span 容器 img 图片 ul 与li一起使用无序列表 ol 与li一起使用有序列表]]></content>
+      <tags>
+        <tag>html</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[学习安排]]></title>
     <url>%2F2018%2F%E5%AD%A6%E4%B9%A0%E5%AE%89%E6%8E%92%2F</url>
     <content type="text"><![CDATA[学习HTML 的相关内容以及css，JavaScript的基础知识来进一步优化自己的博客网站。 成果：？目前就这样 未完待续！！]]></content>
